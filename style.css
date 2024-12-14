@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 2px;
+    background-color: whitesmoke;
+
+
+
+}
+input{
+    background-image:url(search.png);
+    background-size:20px;
+    background-repeat: no-repeat;
+    width:400px;
+    border-radius: 40px;
+    padding: 10px;
+    padding-left: 50px;
+    background-position: 10px;
+    font-size:20px;
+}
+.container{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+    
+}
